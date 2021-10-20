@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAccessibilityService</string>
+    <string name="accessibility_service_label">serviceLabel</string>
+    <string name="accessibility_service_description">accessibilityXmlDescription</string>
+</resources>
